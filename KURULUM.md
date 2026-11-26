@@ -19,7 +19,7 @@ Desktop/
 ```bash
 cd ~/Desktop
 git clone <bu-repo-url> oddsy-bot
-git clone https://github.com/camelbox27-lab/oddsy-data.git
+git clone https://github.com/karakaskemal26/wondiyo-data.git
 
 cd oddsy-bot
 python3.11 -m venv venv

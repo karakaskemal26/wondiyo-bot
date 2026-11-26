@@ -9,7 +9,7 @@ Terminal'i aç (Spotlight → "Terminal") ve şunu yapıştır:
 
 ```bash
 cd ~/Desktop
-git clone https://github.com/camelbox27-lab/bot.git
+git clone https://github.com/karakaskemal26/wondiyo-bot.git
 ```
 
 Bu, Masaüstüne `bot` adında bir klasör oluşturur.
